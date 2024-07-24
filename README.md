@@ -1,4 +1,4 @@
-## Recursion in C++: String Manipulations 🔄
+## Day 39 = Recursion in C++: String Manipulations 🔄
 Welcome to the repository for learning recursion in C++! This repository contains solutions to various problems involving recursion, focusing on string manipulation and examples.
 
 ## Contributing 🌟
